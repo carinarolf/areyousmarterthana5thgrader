@@ -1,0 +1,1653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pnxanbnsnfns00001010111" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x4FBDF4">
+  <layouts>
+    <layout name="npnxnanbsnfns00001010111" font="Lato" controllayout="npnxnanbsnfns00001010111" colorscheme="pnxanbnsnfns00001010111" string_table="pnxanbnsnfns00001010111" />
+    <layout name="pxabnsnfns00001010111" font="Lato" controllayout="pxabnsnfns00001010111" colorscheme="pnxanbnsnfns00001010111" string_table="pnxanbnsnfns00001010111" />
+    <layout name="npxnabnsnfns00001010111" font="Lato" controllayout="npxnabnsnfns00001010111" colorscheme="pnxanbnsnfns00001010111" string_table="pnxanbnsnfns00001010111" />
+    <layout name="npnxnanbnsnfns00001010111" font="Lato" controllayout="npnxnanbnsnfns00001010111" colorscheme="pnxanbnsnfns00001010111" string_table="pnxanbnsnfns00001010111" />
+    <layout name="pxabnsnfns00001010110" font="Lato" controllayout="pxabnsnfns00001010110" colorscheme="pnxanbnsnfns00001010111" string_table="pnxanbnsnfns00001010111" />
+    <layout name="pnxanbnsnfns00001010111" font="Lato" controllayout="pnxanbnsnfns00001010111" colorscheme="pnxanbnsnfns00001010111" string_table="pnxanbnsnfns00001010111" />
+    <layout name="npxabnsnfns00001010111" font="Lato" controllayout="npxabnsnfns00001010111" colorscheme="pnxanbnsnfns00001010111" string_table="pnxanbnsnfns00001010111" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="WEB STORYBOARD - Are YOU Smarter than a 5th Grader?" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="false">
+            <options />
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="right" />
+              <option name="closed" value="false" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="Main Menu" />
+                  <property name="data" value="5YM3Oa8pHAH" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="Categories" />
+                  <property name="data" value="6k3GYtTUVjN" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="glossary" value="true" group="linkright" />
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="transcript" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="true" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="search" value="true" />
+          <option name="closed_captions" value="true">
+            <options>
+              <option name="font" value="Lato" />
+            </options>
+          </option>
+          <option name="settings" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="buttonoptions">
+        <options>
+          <option name="next" value="icon" />
+          <option name="previous" value="icon" />
+          <option name="submit" value="icon" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns00001010111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns00001010111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns00001010111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns00001010111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns00001010110">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="pnxanbnsnfns00001010111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxabnsnfns00001010111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="false" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="pnxanbnsnfns00001010111">
+      <color_group name="accessibility">
+        <group_colors>
+          <color name="focus_rect">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFF00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x282828" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="preloader">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFF0000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3C3C3C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x316300" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4E4E4E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4E4E4E" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x454545" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x222222" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="scene_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_text">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="6" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="selected_hover_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="notes">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="6" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bottom_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="60" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x292929" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x457E13" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3F8500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="outer_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="6" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_in_tab">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x545454" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6AA242" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x275000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4B8A16" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB3B4B3" alpha="75" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB3B4B3" alpha="75" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x479901" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x366F00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="generic_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="94" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="right_shadow">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+                <color rgb="0x000000" alpha="30" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x454545" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x254B00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xAFDD82" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5300" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_on_dark_background">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_on_dark_background_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="brandhighlight">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4FBDF4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="brandhighlight_secondary">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x454545" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x282828" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x282828" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x282828" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="overlay_message">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="85" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="6" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x454545" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="control_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="settings">
+        <group_colors>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="panel_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="35" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C7C7C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_thumb_off">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA2A2A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_track_on">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4FBDF4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_track_off">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="10" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_label">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="settings_border_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x454545" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2B5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2B5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x428C01" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x6C6C6C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="40" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="volume_border_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x454545" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="pnxanbnsnfns00001010111">
+      <string id="three_image_items">items</string>
+      <string id="three_image_viewed">viewed</string>
+      <string id="three_image_of">of</string>
+      <string id="three_image_item">item</string>
+      <string id="accessible_text">Accessible text</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="acc_active">active</string>
+      <string id="alt_key">Alt</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions.</string>
+      <string id="closed_captions_tip">Toggle captions</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="ctrl_key">Ctrl</string>
+      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
+      <string id="enter_key">Enter</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="action">Action</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="mute_shortcut">Mute / unmute</string>
+      <string id="next_shortcut">Next slide</string>
+      <string id="playpause_shortcut">Play / pause</string>
+      <string id="previous_shortcut">Previous slide</string>
+      <string id="replay_shortcut">Replay slide</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="submit_shortcut">Submit slide</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="closedcaptions_shortcut">Toggle closed captions</string>
+      <string id="togglezoom">Toggle zoom to fit</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="mute_tip">Mute</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="next_slide_tip">Next slide</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="pause_tip">Pause</string>
+      <string id="acc_play">play</string>
+      <string id="play_tip">Play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="previous_slide_tip">Previous slide</string>
+      <string id="question_list">Question List</string>
+      <string id="replay_tip">Replay</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="acc_locked">locked</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_toggle">Search</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="acc_slide_progress">slide progress</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="acc_visited">visited</string>
+      <string id="search">Search...</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="settings_tip">Settings</string>
+      <string id="shift_key">Shift</string>
+      <string id="acc_skipnavigation">Back to top</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="spacebar_key">Space</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="submit_tip">Submit</string>
+      <string id="unmute_tip">Unmute</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Lato">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Arial">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.5kOSMiCBVkB" displaytext="Untitled Scene" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5kOSMiCBVkB.6fX4cN4GFDY" displaytext="Game Play Instructions" expand="false" type="slide" />
+            <slidelink slideid="_player.5kOSMiCBVkB.5fKU90TfJth" displaytext="Episode Categories" expand="false" type="slide" />
+            <slidelink slideid="_player.5kOSMiCBVkB.6geNpEgszAn" displaytext="Main Menu" expand="false" type="slide" />
+            <slidelink slideid="_player.5kOSMiCBVkB.6f7f3pa7UJq" displaytext="Episode Categories" expand="false" type="slide" />
+            <slidelink slideid="_player.5kOSMiCBVkB.5yhfoRLJoyB" displaytext="Episode 1 – Number Sense" expand="false" type="slide" />
+            <slidelink slideid="_player.5kOSMiCBVkB.6A1CPWo4z5i" displaytext="Prepare for Episode 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5kOSMiCBVkB.6foQCDEzMDd" displaytext="You Did It!" expand="false" type="slide" />
+            <slidelink slideid="_player.5kOSMiCBVkB.6VD4qVMZEEv" displaytext="Today’s 5th Grade Contestant" expand="false" type="slide" />
+            <slidelink slideid="_player.5kOSMiCBVkB.6fMFxXENxeo" displaytext="Episode Categories" expand="false" type="slide" />
+            <slidelink slideid="_player.5kOSMiCBVkB.5qfKxQnATRw" displaytext="Episode 2 – Multiply &amp;amp; Divide" expand="false" type="slide" />
+            <slidelink slideid="_player.5kOSMiCBVkB.5VEOOimsjow" displaytext="Prepare for Episode 4" expand="false" type="slide" />
+            <slidelink slideid="_player.5kOSMiCBVkB.64TJP3dRikM" displaytext="You Did It!" expand="false" type="slide" />
+            <slidelink slideid="_player.5kOSMiCBVkB.6fcvl1KUVX4" displaytext="Today’s 5th Grade Contestant" expand="false" type="slide" />
+            <slidelink slideid="_player.5kOSMiCBVkB.6YNlc6vFV8J" displaytext="Episode Categories" expand="false" type="slide" />
+            <slidelink slideid="_player.5kOSMiCBVkB.5k6wELksMTr" displaytext="Episode 3 - Fractions" expand="false" type="slide" />
+            <slidelink slideid="_player.5kOSMiCBVkB.6bslyhvIFmC" displaytext="Prepare for Episode 5" expand="false" type="slide" />
+            <slidelink slideid="_player.5kOSMiCBVkB.5XegdrW5AY6" displaytext="You Did It!" expand="false" type="slide" />
+            <slidelink slideid="_player.5kOSMiCBVkB.5je1qrS8IXM" displaytext="Today’s 5th Grade Contestant" expand="false" type="slide" />
+            <slidelink slideid="_player.5kOSMiCBVkB.5pvUq2pgEIO" displaytext="Episode Categories" expand="false" type="slide" />
+            <slidelink slideid="_player.5kOSMiCBVkB.6cMCcTn0S7H" displaytext="Episode 4 – Data &amp;amp; Geometry" expand="false" type="slide" />
+            <slidelink slideid="_player.5kOSMiCBVkB.5ZXSfJ5B4mk" displaytext="Prepare for Episode 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5kOSMiCBVkB.6FSaE24TxQt" displaytext="You Did It!" expand="false" type="slide" />
+            <slidelink slideid="_player.5kOSMiCBVkB.6lZptBjpboJ" displaytext="Today’s 5th Grade Contestant" expand="false" type="slide" />
+            <slidelink slideid="_player.5kOSMiCBVkB.6mjrdIMCHK2" displaytext="Episode Categories" expand="false" type="slide" />
+            <slidelink slideid="_player.5kOSMiCBVkB.695hU4bt6go" displaytext="Episode 5 – Coordinate Plane" expand="false" type="slide" />
+            <slidelink slideid="_player.5kOSMiCBVkB.65by8YBwTJ7" displaytext="You Did It!" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="5kOSMiCBVkB.5yye6uaxV81" slidebank="false" type="slide">click to find out click to find out click to find out are you smarter than a 5th grader? your 6th grade teachers want to know…</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.6EKDJvmYqJq" slidebank="false" type="slide">click continue to learn how to play continue continue continue you are going to play 5 episodes of  are you smarter than a 5th grader?   your goal is to prove that you are, in fact, smarter than a 5th grade math student! the challenge: dust off the cobwebs!</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.65c7VHBrxR0" slidebank="false" type="slide">                             don’t worry if you’ve never seen the game show before.  click through the 5 screens below (using the dots) to familiarize yourself with this week’s challenge.  once you have viewed all screens, click the right arrow in the lower right-hand corner of your computer screen. what is this game show all about?</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.6fX4cN4GFDY" slidebank="false" type="slide">warm-up 1 compete 2 prepare 3 game play instructions</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.61GBa1MfHuO" slidebank="false" type="slide">continue continue continue continue continue continue your answers have been recorded  submit submit submit submit submit submit 1 2 3 4 5       before beginning, you need to think about how well you think you can tackle this challenge.  rate each of the statements below. 1/no way         2/probably not         3/it could go either way        4/pretty sure         5/absolutely  i’m smarter than a 5th grader i know more math than a 5th grader i could beat my parent at this game i could beat my grandparent at this game i could beat mrs. rolf at this game survey questions</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.5fKU90TfJth" slidebank="false" type="slide"> (1) identify the origin, x axis, and y axis of the coordinate plane (2) graph ordered pairs &amp; name points in the first quadrant of the coordinate plane (3) graph ordered pairs from a rule such as y=2x on a coordinate plane   (1) identify the origin, x axis, and y axis of the coordinate plane (2) graph ordered pairs &amp; name points in the first quadrant of the coordinate plane (3) graph ordered pairs from a rule such as y=2x on a coordinate plane          (1) collect, represent, &amp; interpret data (tables, charts, bar graphs, etc.) (2) label 3d objects and their parts &amp; classify 2d objects based on characteristics (3) calculate volume of rectangular prisms   (1) collect, represent, &amp; interpret data (tables, charts, bar graphs, etc.) (2) label 3d objects and their parts &amp; classify 2d objects based on characteristics (3) calculate volume of rectangular prisms         (1) add &amp; subtract mixed numbers (unlike denominators) (2) multiply &amp; divide fractions  (3) solve real world problems using equations, mixed #’s, and addition/subtraction (1) add &amp; subtract mixed numbers (unlike denominators) (2) multiply &amp; divide fractions  (3) solve real world problems using equations, mixed #’s, and addition/subtraction      (1) multiply &amp; divide multiple-digit numbers (2) all decimal operations	 (3) multiply &amp; divide by powers of 10 &amp; convert units in standard/metric system (1) multiply &amp; divide multiple-digit numbers (2) all decimal operations	 (3) multiply &amp; divide by powers of 10 &amp; convert units in standard/metric system     (1) round decimals		     (3) compare fractions, mixed numbers, &amp; decimal (2) powers of 10 [exponents]       (4) equivalent fractions, decimals, &amp; percent (1) round decimals		     (3) compare fractions, mixed numbers, &amp; decimal (2) powers of 10 [exponents]       (4) equivalent fractions, decimals, &amp; percent   ep 5 ep 5  ep 5 ep 5 ep 4 ep 4  ep 4 ep 4 ep 3 ep 3  ep 3 ep 3 ep 2 ep 2  ep 2 ep 2 ep 1 ep 1  ep 1 ep 1 episode categories click each episode below to see what topics will be covered each day.</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.6geNpEgszAn" slidebank="false" type="slide">         episode 1 episode 1 episode 1          1 1 1 episode 4 episode 4 episode 4  4 4 4 episode 2 episode 2 episode 2  2 2 2 episode 5 episode 5 episode 5  5 5 5 episode 3 episode 3 episode 3  3 3 3 complete the episodes in order.  to access an episode, click on the orange block.  first, you will answer the questions within that episode, then you will practice for the next day’s episode.   check off each task as you go – using the white boxes. don’t forget don’t forget don’t forget  main menu game completed practice completed game completed practice completed game completed practice completed game completed practice completed game completed practice completed to keep track of what you have completed each day by checking the boxes.                                                            </slidetext>
+      <slidetext slideid="5kOSMiCBVkB.68MpMYnf4Eu" slidebank="false" type="slide"> ready to meet the competition? episode 1</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.5ffq76nLOW4" slidebank="false" type="slide">  today’s 5th grader may live in a pineapple under the sea; but, his teachers say he soaks up knowledge like a sponge… today’s 5th grade contestant you</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.6f7f3pa7UJq" slidebank="false" type="slide"> (1) identify the origin, x axis, and y axis of the coordinate plane (2) graph ordered pairs &amp; name points in the first quadrant of the coordinate plane (3) graph ordered pairs from a rule such as y=2x on a coordinate plane   (1) identify the origin, x axis, and y axis of the coordinate plane (2) graph ordered pairs &amp; name points in the first quadrant of the coordinate plane (3) graph ordered pairs from a rule such as y=2x on a coordinate plane          (1) collect, represent, &amp; interpret data (tables, charts, bar graphs, etc.) (2) label 3d objects and their parts &amp; classify 2d objects based on characteristics (3) calculate volume of rectangular prisms   (1) collect, represent, &amp; interpret data (tables, charts, bar graphs, etc.) (2) label 3d objects and their parts &amp; classify 2d objects based on characteristics (3) calculate volume of rectangular prisms         (1) add &amp; subtract mixed numbers (unlike denominators) (2) multiply &amp; divide fractions  (3) solve real world problems using equations, mixed #’s, and addition/subtraction (1) add &amp; subtract mixed numbers (unlike denominators) (2) multiply &amp; divide fractions  (3) solve real world problems using equations, mixed #’s, and addition/subtraction      (1) multiply &amp; divide multiple-digit numbers (2) all decimal operations	 (3) multiply &amp; divide by powers of 10 &amp; convert units in standard/metric system (1) multiply &amp; divide multiple-digit numbers (2) all decimal operations	 (3) multiply &amp; divide by powers of 10 &amp; convert units in standard/metric system     (1) round decimals		     (3) compare fractions, mixed numbers, &amp; decimal (2) powers of 10 [exponents]       (4) equivalent fractions, decimals, &amp; percent (1) round decimals		     (3) compare fractions, mixed numbers, &amp; decimal (2) powers of 10 [exponents]       (4) equivalent fractions, decimals, &amp; percent   ep 5 ep 5  ep 5 ep 5 ep 4 ep 4  ep 4 ep 4 ep 3 ep 3  ep 3 ep 3 ep 2 ep 2  ep 2 ep 2 ep 1 ep 1  ep 1 ep 1 ep 1 episode categories here is a reminder of today’s game categories</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.5yhfoRLJoyB" slidebank="false" type="slide">rounding decimals example i’m done i’m done i’m done i’m done i’m done i’m done rounding decimals review i’m done i’m done i’m done i’m done i’m done i’m done rounding balloons i’m done i’m done i’m done i’m done i’m done i’m done rounding review i’m done i’m done i’m done i’m done i’m done i’m done place value review i’m done i’m done i’m done i’m done i’m done i’m done  place value review i’m done i’m done i’m done i’m done i’m done i’m done i’m done i’m done i’m done i’m done i’m done i’m done  time to complete today’s episode of are you smarter than a 5th grader    when prompted to enter your name into the game, use your first and last name.  you will not get credit for your work if you do not enter your name correctly. it may have a toggle for you to enable or disable memes.  choose what you like. don’t forget to come back here and click [i’m done] when you finish. click the big button when you’re ready to begin.  good luck!! i am smarter than a 5th grader! i am smarter than a 5th grader! i am smarter than a 5th grader! i am smarter than a 5th grader!  i’m done i’m done i’m done i’m done i’m done i’m done watch the video, then click [i’m done].    i’m done i’m done i’m done i’m done i’m done i’m done review each graphic below, then click [i’m done].   i’m done i’m done i’m done i’m done i’m done i’m done                                      click on each image to enlarge it.  check off each one as you go so you don’t lose track. then click [i’m done].                     click through each of the warm ups to refresh your skills.  your progress will be recorded as you go.  when finished, click to play today’s episode. episode 1 – number sense place value rounding place value rounding warm up powers of 10 warm up warm up play today’s episode game time equivalent fractions comparing numbers</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.6A1CPWo4z5i" slidebank="false" type="slide">your progress will automatically be tracked, simply click here and complete the preparations. practice converting metric units practice converting metric units practice converting metric units practice converting metric units 2 your progress will automatically be tracked, simply click here and complete the preparations. practice multiplying &amp; dividing by powers of 10 practice multiplying &amp; dividing by powers of 10 practice multiplying &amp; dividing by powers of 10 practice multiplying &amp; dividing by powers of 10 1 click on spongebob to review how to multiply &amp; divide powers of 10 to convert units of measure 1  your progress will automatically be tracked, simply click here and complete the preparations. practice decimal addition &amp; subtraction practice decimal addition &amp; subtraction practice decimal addition &amp; subtraction practice decimal addition &amp; subtraction 2 your progress will automatically be tracked, simply click here and complete the preparations. practice multi-digit multiplication &amp; division practice multi-digit multiplication &amp; division practice multi-digit multiplication &amp; division practice multi-digit multiplication &amp; division 1 your progress will automatically be tracked, simply click here and complete the preparations. practice decimal multiplication &amp; division practice decimal multiplication &amp; division practice decimal multiplication &amp; division practice decimal multiplication &amp; division 3 click on spongebob to compare whole number &amp; decimal operations 1                 click on each category below to refresh before tomorrow’s episode prepare for episode 2 practice multiplying &amp; dividing by powers of 10 to convert units review how to multiply &amp; divide by powers of 10 to convert units of measure practice whole number &amp; decimal operations review whole number &amp; decimal operations  review whole number &amp; decimal operations</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.6foQCDEzMDd" slidebank="false" type="slide">   congrats on completing today’s episode and your preparations for tomorrow’s episode!   you did it!</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.6bty6J0smbi" slidebank="false" type="slide"> ready to meet the competition? episode 2</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.6VD4qVMZEEv" slidebank="false" type="slide">  you today’s 5th grader is a ‘marvel’ous student.  are you smarter than groot?  let’s find out! today’s 5th grade contestant</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.6fMFxXENxeo" slidebank="false" type="slide"> (1) identify the origin, x axis, and y axis of the coordinate plane (2) graph ordered pairs &amp; name points in the first quadrant of the coordinate plane (3) graph ordered pairs from a rule such as y=2x on a coordinate plane   (1) identify the origin, x axis, and y axis of the coordinate plane (2) graph ordered pairs &amp; name points in the first quadrant of the coordinate plane (3) graph ordered pairs from a rule such as y=2x on a coordinate plane          (1) collect, represent, &amp; interpret data (tables, charts, bar graphs, etc.) (2) label 3d objects and their parts &amp; classify 2d objects based on characteristics (3) calculate volume of rectangular prisms   (1) collect, represent, &amp; interpret data (tables, charts, bar graphs, etc.) (2) label 3d objects and their parts &amp; classify 2d objects based on characteristics (3) calculate volume of rectangular prisms         (1) add &amp; subtract mixed numbers (unlike denominators) (2) multiply &amp; divide fractions  (3) solve real world problems using equations, mixed #’s, and addition/subtraction (1) add &amp; subtract mixed numbers (unlike denominators) (2) multiply &amp; divide fractions  (3) solve real world problems using equations, mixed #’s, and addition/subtraction      (1) multiply &amp; divide multiple-digit numbers (2) all decimal operations	 (3) multiply &amp; divide by powers of 10 &amp; convert units in standard/metric system (1) multiply &amp; divide multiple-digit numbers (2) all decimal operations	 (3) multiply &amp; divide by powers of 10 &amp; convert units in standard/metric system     (1) round decimals		     (3) compare fractions, mixed numbers, &amp; decimal (2) powers of 10 [exponents]       (4) equivalent fractions, decimals, &amp; percent (1) round decimals		     (3) compare fractions, mixed numbers, &amp; decimal (2) powers of 10 [exponents]       (4) equivalent fractions, decimals, &amp; percent   ep 5 ep 5  ep 5 ep 5 ep 4 ep 4  ep 4 ep 4 ep 3 ep 3  ep 3 ep 3 ep 2 ep 2  ep 2 ep 2 ep 1 ep 1  ep 1 ep 1 ep 1 episode categories here is a reminder of today’s game categories</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.5qfKxQnATRw" slidebank="false" type="slide">division example 2 i’m done i’m done i’m done i’m done i’m done i’m done it helps to make a list of multiples for your divisor like they did for 24 division example 1 i’m done i’m done i’m done i’m done i’m done i’m done click on the image to view a tutorial slide show on long division multiplication example 2 i’m done i’m done i’m done i’m done i’m done i’m done  multiplication example 1 i’m done i’m done i’m done i’m done i’m done i’m done i’m done i’m done i’m done i’m done i’m done i’m done  time to complete today’s episode of are you smarter than a 5th grader    when prompted to enter your name into the game, use your first and last name.  you will not get credit for your work if you do not enter your name correctly. it may have a toggle for you to enable or disable memes.  choose what you like. don’t forget to come back here and click [i’m done] when you finish. click the big button when you’re ready to begin.  good luck!! i am smarter than a 5th grader! i am smarter than a 5th grader! i am smarter than a 5th grader! i am smarter than a 5th grader!  i’m done i’m done i’m done i’m done i’m done i’m done watch the video, then click [i’m done].    i’m done i’m done i’m done i’m done i’m done i’m done review each graphic below, then click [i’m done].   i’m done i’m done i’m done i’m done i’m done i’m done                          click on each image to enlarge it.  check off each one as you go so you don’t lose track. then click [i’m done].                     click through each of the warm ups to refresh your skills.  your progress will be recorded as you go.  when finished, click to play today’s episode. episode 2 – multiply &amp; divide multiply &amp; divide multiple digit numbers multiply &amp; divide multiple digit numbers warm up multiply &amp; divide by powers of 10 warm up warm up play today’s episode game time convert units</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.5VEOOimsjow" slidebank="false" type="slide">your progress will automatically be tracked, simply click here and complete the preparations. practice converting metric units practice converting metric units practice converting metric units practice converting metric units 2 your progress will automatically be tracked, simply click here and complete the preparations. practice multiplying &amp; dividing by powers of 10 practice multiplying &amp; dividing by powers of 10 practice multiplying &amp; dividing by powers of 10 practice multiplying &amp; dividing by powers of 10 1 click on spongebob to review how to multiply &amp; divide powers of 10 to convert units of measure 1  your progress will automatically be tracked, simply click here and complete the preparations. practice decimal addition &amp; subtraction practice decimal addition &amp; subtraction practice decimal addition &amp; subtraction practice decimal addition &amp; subtraction 2 your progress will automatically be tracked, simply click here and complete the preparations. practice multi-digit multiplication &amp; division practice multi-digit multiplication &amp; division practice multi-digit multiplication &amp; division practice multi-digit multiplication &amp; division 1 your progress will automatically be tracked, simply click here and complete the preparations. practice decimal multiplication &amp; division practice decimal multiplication &amp; division practice decimal multiplication &amp; division practice decimal multiplication &amp; division 3 click on spongebob to compare whole number &amp; decimal operations 1                 click on each category below to refresh before tomorrow’s episode prepare for episode 4 practice real world fraction problems review real world fraction problems practice adding/subtracting mixed numbers &amp; multiplying/dividing fractions review adding/subtracting mixed numbers &amp; multiplying/dividing fractions review adding/subtracting mixed numbers &amp; multiplying/dividing fractions</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.64TJP3dRikM" slidebank="false" type="slide">   congrats on completing today’s episode and your preparations for tomorrow’s episode!   you did it!</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.5yE55nzsJhk" slidebank="false" type="slide"> ready to meet the competition? episode 3</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.6fcvl1KUVX4" slidebank="false" type="slide">  today’s 5th grader may look old; but, he never finished school.  fiona is currently home-schooling him on 5th grade subjects. today’s 5th grade contestant you</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.6YNlc6vFV8J" slidebank="false" type="slide"> (1) identify the origin, x axis, and y axis of the coordinate plane (2) graph ordered pairs &amp; name points in the first quadrant of the coordinate plane (3) graph ordered pairs from a rule such as y=2x on a coordinate plane   (1) identify the origin, x axis, and y axis of the coordinate plane (2) graph ordered pairs &amp; name points in the first quadrant of the coordinate plane (3) graph ordered pairs from a rule such as y=2x on a coordinate plane          (1) collect, represent, &amp; interpret data (tables, charts, bar graphs, etc.) (2) label 3d objects and their parts &amp; classify 2d objects based on characteristics (3) calculate volume of rectangular prisms   (1) collect, represent, &amp; interpret data (tables, charts, bar graphs, etc.) (2) label 3d objects and their parts &amp; classify 2d objects based on characteristics (3) calculate volume of rectangular prisms         (1) add &amp; subtract mixed numbers (unlike denominators) (2) multiply &amp; divide fractions  (3) solve real world problems using equations, mixed #’s, and addition/subtraction (1) add &amp; subtract mixed numbers (unlike denominators) (2) multiply &amp; divide fractions  (3) solve real world problems using equations, mixed #’s, and addition/subtraction      (1) multiply &amp; divide multiple-digit numbers (2) all decimal operations	 (3) multiply &amp; divide by powers of 10 &amp; convert units in standard/metric system (1) multiply &amp; divide multiple-digit numbers (2) all decimal operations	 (3) multiply &amp; divide by powers of 10 &amp; convert units in standard/metric system     (1) round decimals		     (3) compare fractions, mixed numbers, &amp; decimal (2) powers of 10 [exponents]       (4) equivalent fractions, decimals, &amp; percent (1) round decimals		     (3) compare fractions, mixed numbers, &amp; decimal (2) powers of 10 [exponents]       (4) equivalent fractions, decimals, &amp; percent   ep 5 ep 5  ep 5 ep 5 ep 4 ep 4  ep 4 ep 4 ep 3 ep 3  ep 3 ep 3 ep 2 ep 2  ep 2 ep 2 ep 1 ep 1  ep 1 ep 1 ep 1 episode categories here is a reminder of today’s game categories</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.5k6wELksMTr" slidebank="false" type="slide">rounding decimals example i’m done i’m done i’m done i’m done i’m done i’m done rounding decimals review i’m done i’m done i’m done i’m done i’m done i’m done rounding balloons i’m done i’m done i’m done i’m done i’m done i’m done rounding review i’m done i’m done i’m done i’m done i’m done i’m done place value review i’m done i’m done i’m done i’m done i’m done i’m done  place value review i’m done i’m done i’m done i’m done i’m done i’m done i’m done i’m done i’m done i’m done i’m done i’m done  time to complete today’s episode of are you smarter than a 5th grader    when prompted to enter your name into the game, use your first and last name.  you will not get credit for your work if you do not enter your name correctly. it may have a toggle for you to enable or disable memes.  choose what you like. don’t forget to come back here and click [i’m done] when you finish. click the big button when you’re ready to begin.  good luck!! i am smarter than a 5th grader! i am smarter than a 5th grader! i am smarter than a 5th grader! i am smarter than a 5th grader!  i’m done i’m done i’m done i’m done i’m done i’m done watch the video, then click [i’m done].    i’m done i’m done i’m done i’m done i’m done i’m done review each graphic below, then click [i’m done].   i’m done i’m done i’m done i’m done i’m done i’m done                                      click on each image to enlarge it.  check off each one as you go so you don’t lose track. then click [i’m done].                     click through each of the warm ups to refresh your skills.  your progress will be recorded as you go.  when finished, click to play today’s episode. episode 3 - fractions add &amp; subtract mixed numbers add &amp; subtract mixed numbers warm up multiply &amp; divide fractions warm up warm up play today’s episode game time real world fraction problems</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.6bslyhvIFmC" slidebank="false" type="slide">your progress will automatically be tracked, simply click here and complete the preparations. practice converting metric units practice converting metric units practice converting metric units practice converting metric units 2 your progress will automatically be tracked, simply click here and complete the preparations. practice multiplying &amp; dividing by powers of 10 practice multiplying &amp; dividing by powers of 10 practice multiplying &amp; dividing by powers of 10 practice multiplying &amp; dividing by powers of 10 1 click on spongebob to review how to multiply &amp; divide powers of 10 to convert units of measure 1  your progress will automatically be tracked, simply click here and complete the preparations. practice decimal addition &amp; subtraction practice decimal addition &amp; subtraction practice decimal addition &amp; subtraction practice decimal addition &amp; subtraction 2 your progress will automatically be tracked, simply click here and complete the preparations. practice multi-digit multiplication &amp; division practice multi-digit multiplication &amp; division practice multi-digit multiplication &amp; division practice multi-digit multiplication &amp; division 1 your progress will automatically be tracked, simply click here and complete the preparations. practice decimal multiplication &amp; division practice decimal multiplication &amp; division practice decimal multiplication &amp; division practice decimal multiplication &amp; division 3 click on spongebob to compare whole number &amp; decimal operations 1                 click on each category below to refresh before tomorrow’s episode prepare for episode 5 practice labeling/classifying 2d/3d objects &amp; calculating volume of prisms review labeling/classifying 2d/3d objects &amp; calculating volume of prisms practice data collection, representation, and analysis review data collection, representation, and analysis  review data collection, representation, and analysis</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.5XegdrW5AY6" slidebank="false" type="slide">   congrats on completing today’s episode and your preparations for tomorrow’s episode!   you did it!</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.6puFLewFEXE" slidebank="false" type="slide"> ready to meet the competition? episode 4</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.5je1qrS8IXM" slidebank="false" type="slide">  today’s 5th grader wants to create a new genus of bananas in his secret underground lab when he gets older.  his bananas will grow to be 5 feet long. today’s 5th grade contestant you</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.5pvUq2pgEIO" slidebank="false" type="slide"> (1) identify the origin, x axis, and y axis of the coordinate plane (2) graph ordered pairs &amp; name points in the first quadrant of the coordinate plane (3) graph ordered pairs from a rule such as y=2x on a coordinate plane   (1) identify the origin, x axis, and y axis of the coordinate plane (2) graph ordered pairs &amp; name points in the first quadrant of the coordinate plane (3) graph ordered pairs from a rule such as y=2x on a coordinate plane          (1) collect, represent, &amp; interpret data (tables, charts, bar graphs, etc.) (2) label 3d objects and their parts &amp; classify 2d objects based on characteristics (3) calculate volume of rectangular prisms   (1) collect, represent, &amp; interpret data (tables, charts, bar graphs, etc.) (2) label 3d objects and their parts &amp; classify 2d objects based on characteristics (3) calculate volume of rectangular prisms         (1) add &amp; subtract mixed numbers (unlike denominators) (2) multiply &amp; divide fractions  (3) solve real world problems using equations, mixed #’s, and addition/subtraction (1) add &amp; subtract mixed numbers (unlike denominators) (2) multiply &amp; divide fractions  (3) solve real world problems using equations, mixed #’s, and addition/subtraction      (1) multiply &amp; divide multiple-digit numbers (2) all decimal operations	 (3) multiply &amp; divide by powers of 10 &amp; convert units in standard/metric system (1) multiply &amp; divide multiple-digit numbers (2) all decimal operations	 (3) multiply &amp; divide by powers of 10 &amp; convert units in standard/metric system     (1) round decimals		     (3) compare fractions, mixed numbers, &amp; decimal (2) powers of 10 [exponents]       (4) equivalent fractions, decimals, &amp; percent (1) round decimals		     (3) compare fractions, mixed numbers, &amp; decimal (2) powers of 10 [exponents]       (4) equivalent fractions, decimals, &amp; percent   ep 5 ep 5  ep 5 ep 5 ep 4 ep 4  ep 4 ep 4 ep 3 ep 3  ep 3 ep 3 ep 2 ep 2  ep 2 ep 2 ep 1 ep 1  ep 1 ep 1 ep 1 episode categories here is a reminder of today’s game categories</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.6cMCcTn0S7H" slidebank="false" type="slide">rounding decimals example i’m done i’m done i’m done i’m done i’m done i’m done rounding decimals review i’m done i’m done i’m done i’m done i’m done i’m done rounding balloons i’m done i’m done i’m done i’m done i’m done i’m done rounding review i’m done i’m done i’m done i’m done i’m done i’m done place value review i’m done i’m done i’m done i’m done i’m done i’m done  place value review i’m done i’m done i’m done i’m done i’m done i’m done i’m done i’m done i’m done i’m done i’m done i’m done  time to complete today’s episode of are you smarter than a 5th grader    when prompted to enter your name into the game, use your first and last name.  you will not get credit for your work if you do not enter your name correctly. it may have a toggle for you to enable or disable memes.  choose what you like. don’t forget to come back here and click [i’m done] when you finish. click the big button when you’re ready to begin.  good luck!! i am smarter than a 5th grader! i am smarter than a 5th grader! i am smarter than a 5th grader! i am smarter than a 5th grader!  i’m done i’m done i’m done i’m done i’m done i’m done watch the video, then click [i’m done].    i’m done i’m done i’m done i’m done i’m done i’m done review each graphic below, then click [i’m done].   i’m done i’m done i’m done i’m done i’m done i’m done                                      click on each image to enlarge it.  check off each one as you go so you don’t lose track. then click [i’m done].                     click through each of the warm ups to refresh your skills.  your progress will be recorded as you go.  when finished, click to play today’s episode. episode 4 – data &amp; geometry collect, represent &amp; interpret data collect, represent &amp; interpret data warm up label &amp; classify 2d &amp; 3d objects warm up warm up play today’s episode game time volume of rectangular prisms</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.5ZXSfJ5B4mk" slidebank="false" type="slide">your progress will automatically be tracked, simply click here and complete the preparations. practice converting metric units practice converting metric units practice converting metric units practice converting metric units 2 your progress will automatically be tracked, simply click here and complete the preparations. practice multiplying &amp; dividing by powers of 10 practice multiplying &amp; dividing by powers of 10 practice multiplying &amp; dividing by powers of 10 practice multiplying &amp; dividing by powers of 10 1 click on spongebob to review how to multiply &amp; divide powers of 10 to convert units of measure 1  your progress will automatically be tracked, simply click here and complete the preparations. practice decimal addition &amp; subtraction practice decimal addition &amp; subtraction practice decimal addition &amp; subtraction practice decimal addition &amp; subtraction 2 your progress will automatically be tracked, simply click here and complete the preparations. practice multi-digit multiplication &amp; division practice multi-digit multiplication &amp; division practice multi-digit multiplication &amp; division practice multi-digit multiplication &amp; division 1 your progress will automatically be tracked, simply click here and complete the preparations. practice decimal multiplication &amp; division practice decimal multiplication &amp; division practice decimal multiplication &amp; division practice decimal multiplication &amp; division 3 click on spongebob to compare whole number &amp; decimal operations 1                 click on each category below to refresh before tomorrow’s episode prepare for episode 2 practice graphing on the coordinate plane review graphing on the coordinate plane practice identifying coordinate plane anatomy review coordinate plane anatomy  review coordinate plane anatomy</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.6FSaE24TxQt" slidebank="false" type="slide">   congrats on completing today’s episode and your preparations for tomorrow’s episode!   you did it!</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.66pSN1tZ4Cn" slidebank="false" type="slide"> ready to meet the competition? episode 5</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.6lZptBjpboJ" slidebank="false" type="slide">  today’s 5th grader is smarter than her own father…granted, homer isn’t smarter than any 5th grader! today’s 5th grade contestant you</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.6mjrdIMCHK2" slidebank="false" type="slide"> (1) identify the origin, x axis, and y axis of the coordinate plane (2) graph ordered pairs &amp; name points in the first quadrant of the coordinate plane (3) graph ordered pairs from a rule such as y=2x on a coordinate plane   (1) identify the origin, x axis, and y axis of the coordinate plane (2) graph ordered pairs &amp; name points in the first quadrant of the coordinate plane (3) graph ordered pairs from a rule such as y=2x on a coordinate plane          (1) collect, represent, &amp; interpret data (tables, charts, bar graphs, etc.) (2) label 3d objects and their parts &amp; classify 2d objects based on characteristics (3) calculate volume of rectangular prisms   (1) collect, represent, &amp; interpret data (tables, charts, bar graphs, etc.) (2) label 3d objects and their parts &amp; classify 2d objects based on characteristics (3) calculate volume of rectangular prisms         (1) add &amp; subtract mixed numbers (unlike denominators) (2) multiply &amp; divide fractions  (3) solve real world problems using equations, mixed #’s, and addition/subtraction (1) add &amp; subtract mixed numbers (unlike denominators) (2) multiply &amp; divide fractions  (3) solve real world problems using equations, mixed #’s, and addition/subtraction      (1) multiply &amp; divide multiple-digit numbers (2) all decimal operations	 (3) multiply &amp; divide by powers of 10 &amp; convert units in standard/metric system (1) multiply &amp; divide multiple-digit numbers (2) all decimal operations	 (3) multiply &amp; divide by powers of 10 &amp; convert units in standard/metric system     (1) round decimals		     (3) compare fractions, mixed numbers, &amp; decimal (2) powers of 10 [exponents]       (4) equivalent fractions, decimals, &amp; percent (1) round decimals		     (3) compare fractions, mixed numbers, &amp; decimal (2) powers of 10 [exponents]       (4) equivalent fractions, decimals, &amp; percent   ep 5 ep 5  ep 5 ep 5 ep 4 ep 4  ep 4 ep 4 ep 3 ep 3  ep 3 ep 3 ep 2 ep 2  ep 2 ep 2 ep 1 ep 1  ep 1 ep 1 ep 1 episode categories here is a reminder of today’s game categories</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.695hU4bt6go" slidebank="false" type="slide">rounding decimals example i’m done i’m done i’m done i’m done i’m done i’m done rounding decimals review i’m done i’m done i’m done i’m done i’m done i’m done rounding balloons i’m done i’m done i’m done i’m done i’m done i’m done rounding review i’m done i’m done i’m done i’m done i’m done i’m done place value review i’m done i’m done i’m done i’m done i’m done i’m done  place value review i’m done i’m done i’m done i’m done i’m done i’m done i’m done i’m done i’m done i’m done i’m done i’m done  time to complete today’s episode of are you smarter than a 5th grader    when prompted to enter your name into the game, use your first and last name.  you will not get credit for your work if you do not enter your name correctly. it may have a toggle for you to enable or disable memes.  choose what you like. don’t forget to come back here and click [i’m done] when you finish. click the big button when you’re ready to begin.  good luck!! i am smarter than a 5th grader! i am smarter than a 5th grader! i am smarter than a 5th grader! i am smarter than a 5th grader!  i’m done i’m done i’m done i’m done i’m done i’m done watch the video, then click [i’m done].    i’m done i’m done i’m done i’m done i’m done i’m done review each graphic below, then click [i’m done].   i’m done i’m done i’m done i’m done i’m done i’m done                                      click on each image to enlarge it.  check off each one as you go so you don’t lose track. then click [i’m done].                     click through each of the warm ups to refresh your skills.  your progress will be recorded as you go.  when finished, click to play today’s episode. episode 5 – coordinate plane coordinate plane anatomy coordinate plane anatomy warm up graphing points on the coordinate plane warm up warm up play today’s episode game time use an equation to graph lines on the coordinate plane</slidetext>
+      <slidetext slideid="5kOSMiCBVkB.65by8YBwTJ7" slidebank="false" type="slide">   congrats on completing are you smarter than a 5th grader!  you successfully reviewed last year’s math curriculum! you did it!</slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data />
+  <glossary_data>
+    <terms>
+      <term title="2D ">insert definition</term>
+      <term title="3D">insert definition</term>
+      <term title="Classify Shapes">insert definition</term>
+      <term title="Convert">insert definition</term>
+      <term title="Coordinate Plane">Definition
+
+Axis
+Origin
+Quadrant
+Point</term>
+      <term title="Denominator">insert definition</term>
+      <term title="Equation">insert definition</term>
+      <term title="Equivalent">insert definition</term>
+      <term title="Expanded Form">insert definition</term>
+      <term title="Exponent">insert definition</term>
+      <term title="Expression">insert definition</term>
+      <term title="Fraction">insert definition</term>
+      <term title="Intepret (Analyze) Data">insert definition</term>
+      <term title="Mixed Number">insert definition</term>
+      <term title="Numerator">insert definition</term>
+      <term title="Ordered Pair">insert definition</term>
+      <term title="Power of 10">insert definition</term>
+      <term title="Represent Data">insert definition</term>
+      <term title="Standard/Metric System">insert definition</term>
+      <term title="Volume">insert definition</term>
+    </terms>
+  </glossary_data>
+</bwFrame>
